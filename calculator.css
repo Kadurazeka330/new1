@@ -1,0 +1,52 @@
+.calculator{
+    background: rgba(146,242,255,.15);
+}
+
+.calculator__slider{
+    max-width: 800px;;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.calculator__inner{
+    display: flex;
+    width: 300%;
+    position: relative;
+}
+.slider-1{
+    width: 800px;
+}
+.slider-2{
+    width: 800px;
+}
+.slider-3{
+    width: 800px;
+}
+#man{
+    width: 170px;
+    height: 50px;
+    padding: 0px 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 15px rgb(0 0 0 / 20%);
+    font-size: 14px;
+    text-align: center;
+}
+#woman{
+    width: 170px;
+    height: 50px;
+    padding: 0px 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 15px rgb(0 0 0 / 20%);
+    font-size: 14px;
+    text-align: center;
+}
+input{
+    width: 170px;
+    height: 50px;
+    padding: 0px 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 15px rgb(0 0 0 / 20%);
+    font-size: 14px;
+    text-align: center;
+}
+
